@@ -27,6 +27,7 @@ github_username:  rjonczy
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
+theme-color: red
 gems:
   - jekyll-feed
 exclude:
