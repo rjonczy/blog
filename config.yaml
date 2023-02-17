@@ -6,7 +6,7 @@ paginate: 10
 pluralizelisttitles: false
 params:
   brand: Robert Jończy
-  # brand_image: "/robert.jpeg"
+  brand_image: "/robert.jpeg"
   description: My thoughts on DevOps, blockchain, distributed-systems, ...
   dark_mode: true
   menu:
