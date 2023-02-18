@@ -1,7 +1,6 @@
 ---
 title: "Second"
 date: 2023-02-17T22:23:58+01:00
-draft: true
 tags: ["gcp"]
 ---
 
