@@ -1,6 +1,6 @@
 baseURL: http://jonczy.pl/
 languageCode: en-us
-title: Robert's thoughts
+title: Robert Jończy
 theme: poison
 paginate: 10
 pluralizelisttitles: false
@@ -18,9 +18,12 @@ params:
       Pre: Recent
       HasChildren: true
       Limit: 10
+  
+  # social links
   github_url: 'https://github.com/rjonczy'
   linkedin_url: 'https://www.linkedin.com/in/robertjonczy/'
   twitter_url: 'https://twitter.com/robertjonczy'
+  
   sidebar_bg_color: '#202020'
   sidebar_img_border_color: '#515151'
   sidebar_p_color: '#909090'
