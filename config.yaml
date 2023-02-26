@@ -7,7 +7,7 @@ pluralizelisttitles: false
 params:
   brand: Robert Jończy
   brand_image: "/robert.jpeg"
-  description: My thoughts on DevOps, Clouds, blockchain, distributed-systems, ...
+  description: My thoughts on DevOps, Clouds, blockchains and distributed-systems
   dark_mode: true
   menu:
     - Name: About
