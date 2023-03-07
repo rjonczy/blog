@@ -5,3 +5,6 @@ Planned posts (articles)
 - spacelift
 - k3s + flux (edge deployment) 
 - github actions
+- observability 
+- logging
+- azure iot hub
