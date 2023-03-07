@@ -1,10 +1,16 @@
 Planned posts (articles)
-- sticky session on Ingress
-- act (running github actions locally)
+- "Sticky session on Ingress"
+- "Running Github Actions locally" 
+- "k3s + flux (edge deployment)"
+
+General topics:
+- Github Actions [CI]
 - terraform
 - spacelift
-- k3s + flux (edge deployment) 
 - github actions
 - observability 
 - logging
 - azure iot hub
+- web assembly
+- kubernetes
+- edge deployments
