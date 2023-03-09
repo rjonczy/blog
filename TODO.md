@@ -12,5 +12,8 @@ General topics:
 - logging
 - azure iot hub
 - web assembly
+- Docker
 - kubernetes
 - edge deployments
+- mTLS
+- service mesh
