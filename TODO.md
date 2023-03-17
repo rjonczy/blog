@@ -2,6 +2,8 @@ Planned posts (articles)
 - "Sticky session on Ingress"
 - "Running Github Actions locally" 
 - "k3s + flux (edge deployment)"
+- "Restricting access by geographical location on ingress controller" [k8s, 
+    ingress, nginx]
 
 General topics:
 - Github Actions [CI]
